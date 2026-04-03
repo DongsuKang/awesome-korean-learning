@@ -83,6 +83,21 @@
 - [Korean Language Discord](https://discord.gg/korean) — Active chat community.
 - [HelloTalk](https://www.hellotalk.com) — Language exchange with native Korean speakers.
 
+## Related Guides (GitHub Gists)
+
+- [Korean Expressions Cheatsheet](https://gist.github.com/DongsuKang/047d1c83ba4ea3c464ee64af3a30bb48) — Real meanings vs textbook meanings
+- [Learn Korean from YouTube](https://gist.github.com/DongsuKang/2f3d3ab6e2a4adb7fc0f2d4184a5aefb) — Practical method for intermediate learners
+- [5 Untranslatable Korean Words](https://gist.github.com/DongsuKang/c900918314117abf90d0eede9891614a)
+- [Korean Honorifics Guide](https://gist.github.com/DongsuKang/2fc18766a6c4bc5c083144669b5c8b14)
+- [K-Drama Expressions](https://gist.github.com/DongsuKang/58b55bdbafe2a157a5b68c7ea9772b13)
+- [Korean Particles Guide](https://gist.github.com/DongsuKang/8a86ecd2446279ddf13d7054880c30b0)
+- [TOPIK Preparation Guide](https://gist.github.com/DongsuKang/d0327773d5e4ebe73ccbe20124672617)
+
+## Blog
+
+- [How I Built a Korean Learning Tool with YouTube Subtitles](https://dongsukang.github.io/projects/korean-learning-tool-youtube-subtitles/)
+
+
 ---
 
 ## Contributing
