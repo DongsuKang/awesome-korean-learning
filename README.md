@@ -36,6 +36,7 @@ This list curates the **best free resources** for learning Korean — from absol
 - [Coursera: First Step Korean](https://www.coursera.org/learn/learn-korean) — Free Yonsei University course.
 - [King Sejong Institute](https://www.iksi.or.kr) — Korean government-sponsored courses worldwide.
 - [TOPIK Guide](https://www.topikguide.com) — TOPIK test preparation.
+- [Korean TokTok](https://koreantoktok.com) — Free 4-stage curriculum (Hangul → TOPIK 6) with multilingual UI (en/id/vi/de) and free interactive tools — Korean keyboard, Hangul romanizer, [TOPIK score calculator](https://koreantoktok.com/en/tools/topik-score-calculator), and Sino/Native number converter. No signup. [Hangul roadmap](https://koreantoktok.substack.com/p/learn-hangul-in-1-hour-the-practical) post.
 
 ## YouTube Channels
 
