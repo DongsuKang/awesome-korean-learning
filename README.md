@@ -61,6 +61,7 @@ This list curates the **best free resources** for learning Korean — from absol
 
 - [Anki](https://apps.ankiweb.net) — Spaced repetition with community Korean decks.
 - [Memrise](https://www.memrise.com) — Vocabulary with native speaker clips.
+- [WordMeadow Korean themes](https://wordmeadow.app/learn/korean/from/english/themes) — Visual vocabulary theme cards grouped by everyday topics.
 
 ## Reading
 
