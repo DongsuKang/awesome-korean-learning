@@ -36,6 +36,7 @@ This list curates the **best free resources** for learning Korean — from absol
 - [Coursera: First Step Korean](https://www.coursera.org/learn/learn-korean) — Free Yonsei University course.
 - [King Sejong Institute](https://www.iksi.or.kr) — Korean government-sponsored courses worldwide.
 - [TOPIK Guide](https://www.topikguide.com) — TOPIK test preparation.
+- [StudySolvi](https://studysolvi.com): free online TOPIK II past exams with audio, transcripts, and bilingual explanations.
 
 ## YouTube Channels
 
