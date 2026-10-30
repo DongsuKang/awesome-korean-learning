@@ -75,6 +75,7 @@ This list curates the **best free resources** for learning Korean — from absol
 
 ## Related Guides
 
+- [Korean Clock-Time Mini-Quiz](https://gist.github.com/rabbleswoe/256ed0ba53cb2bc56ddedf1d34279b47) — Two short exercises on native Korean hours and Sino-Korean minutes, with collapsible answers and linked number practice. From learnpeat.
 - [Korean Expressions Cheatsheet](https://gist.github.com/DongsuKang/047d1c83ba4ea3c464ee64af3a30bb48) — Real meanings vs textbook
 - [5 Untranslatable Korean Words](https://gist.github.com/DongsuKang/c900918314117abf90d0eede9891614a) — 눈치, 서운하다, 그냥
 - [Korean Honorifics Guide](https://gist.github.com/DongsuKang/2fc18766a6c4bc5c083144669b5c8b14) — 해요체 vs 합쇼체 vs 반말
